@@ -64,7 +64,6 @@ namespace dynamicArrayInput
 
                             foreach (int value in array)
                             {
-                                Console.WriteLine(total);
                                 total = total + value;
                             }
 
@@ -145,6 +144,5 @@ namespace dynamicArrayInput
       
     }
 }
-
 
 ```
